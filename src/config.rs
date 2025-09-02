@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["api.ebai.cn"];
-pub const RS_PUB_KEY: &str = "sjyvIOq1bK6k07Ho+p6ibH0xuCAI0usRJdqUMs3SG8Q=";
+pub const RS_PUB_KEY: &str = "yEJ8djT5jaymmKv0SLjyJz7+gtc5OC6SLVtsMEixC8c=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
